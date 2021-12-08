@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:proyecto_movil/src/caja_opciones.dart';
 
-class home extends StatelessWidget {
-
+class Historial extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
